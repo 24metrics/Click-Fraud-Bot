@@ -6,6 +6,8 @@ This repository contains an **educational example** of a Python-based ClickBot. 
 
 > 💡 If you're a company or developer looking to **protect your ad spend from such threats**, reach out to us at [24metrics.com]([https://24metrics.com](https://www.24metrics.com/click-fraud-detection/)).
 
+You can test your Bot against our 👉 [IP-Reputation-Scanner](https://www.24metrics.com/ip-scanner/)
+
 ---
 
 ## 🔍 Features
